@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshRaj-codespace
-- 👀 I’m interested in Web Dvelopmemt and Machine Learning
+- 👀 I’m interested in Web Dvelopmemt
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
